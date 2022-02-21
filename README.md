@@ -4,7 +4,7 @@
 This project represents a full DOA setup with a front end community hub to view proposals, a ERC-1155 DAO membership nft minter, an associated ERC-20 governance token, and a stand-alone voting contract/treasury. 
 
 ## Live Deployment
-*TBD*
+https://meme-dao.herokuapp.com/
 
 ## Contracts
 *On Rinkeby*
