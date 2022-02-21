@@ -16,7 +16,6 @@ This project represents a full DOA setup with a front end community hub to view 
 ### Prerequisites
 - React
 - Npm >= v7.0
-- Hardhat
 - Metamask Wallet (integrated w/ compatible browser)
 
 ### Local Setup 
