@@ -6,6 +6,12 @@ This project represents a full DOA setup with a front end community hub to view 
 ## Live Deployment
 *TBD*
 
+### Contracts
+*On Rinkeby*
+- ERC-1155 NFT: 0xBC060D2f1194f27eF6D38d5E1778D3984792CE55
+- ERC-20 Governance Token: 0x76a057e0e4002E392bd1f14924eF30054dF99Ce1
+- Voting/Treasury Contract: 0x7BD4B1B0D41b49D8Abf67e8E93ac829dc94e1Eb7
+
 ## Running the Project Locally
 ### Prerequisites
 - React
